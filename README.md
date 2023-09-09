@@ -1,20 +1,8 @@
 <<<<<<< HEAD
 # stageone_task
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
+This app displays my slack profile piture, it has an in app WebView that loads my GitHub profile and also my Slack Name
+This is the link to view the app on appetize https://appetize.io/app/tbqxylmghkzf5qsyzgrg7oaasi?device=pixel7&osVersion=13.0&scale=75 
+This application was built using dart programming language and flutter framework.
 # StageOne-Task
 >>>>>>> ec87941c92a5e2319dc350e252b4e2979445a7e7
